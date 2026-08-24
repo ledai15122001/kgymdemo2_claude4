@@ -10,9 +10,9 @@ const REVIEWS = [
     text: 'Phòng đẹp , sạch sẽ , thoáng mát , mọi người vui vẻ hoà đồng, ông chủ vui tính.',
   },
   {
-    name: 'Khang Nguyễn',
+    name: 'Mai Loan',
     service: 'Gói HSSV',
-    text: 'Sinh viên như mình thấy giá HSSV rất ổn, tập được cả sáng lẫn chiều tối, nhân viên hòa đồng nhiệt tình!',
+    text: 'Phòng gym tiện nghi, sạch sẽ đầy đủ trang thiết bị. Đẳng cấp nhất khu vực Lái Thiêu',
   },
   {
     name: 'Nguyễn Hương',
