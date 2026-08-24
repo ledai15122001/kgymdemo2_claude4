@@ -35,9 +35,9 @@ const REVIEWS = [
     text: 'Phòng rộng, mát, nhiều máy tập. Giá rất oke luôn mn.',
   },
   {
-    name: 'Hải Yến',
-    service: 'Tập Buổi Chiều',
-    text: 'Trải nghiệm xứng đáng 5 sao. Không gian rộng rãi, trang thiết bị hiện đại, đáng đồng tiền bát gạo.',
+    name: 'Đỗ Thanh Toàn',
+    service: 'Gói 3 tháng',
+    text: 'Máy móc cao cấp, giá cả thì bình dân rất đáng để tập nha mọi người.',
   },
 ];
 
