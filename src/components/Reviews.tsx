@@ -5,9 +5,9 @@ const REVIEWS = [
     text: 'Chủ phòng thân thiện , dễ chịu. Phòng tập luyện thoải mái thoáng mát.',
   },
   {
-    name: 'Trần Thanh Hằng',
+    name: 'Ng Huynh Chieu',
     service: 'PT Cá Nhân',
-    text: 'Huấn luyện viên hướng dẫn rất tận tình, chỉnh form tập kỹ từng chút một. Sau 2 tháng cơ thể cải thiện rõ rệt.',
+    text: 'Phòng đẹp , sạch sẽ , thoáng mát , mọi người vui vẻ hoà đồng, ông chủ vui tính.',
   },
   {
     name: 'Khang Nguyễn',
