@@ -15,9 +15,9 @@ const REVIEWS = [
     text: 'Phòng gym tiện nghi, sạch sẽ đầy đủ trang thiết bị. Đẳng cấp nhất khu vực Lái Thiêu',
   },
   {
-    name: 'Nguyễn Hương',
+    name: 'Quốc Thái',
     service: 'Tập Buổi Sáng',
-    text: 'Tập ở đây cỡ nửa năm rồi, rất ưng ý. Phòng sạch sẽ, giờ giấc linh hoạt, sáng sớm đi tập trước khi làm rất tiện.',
+    text: 'Phòng sạch sẽ và thoáng mát, không có máy Preacher curl :(',
   },
   {
     name: 'Hết Cao Vân',
