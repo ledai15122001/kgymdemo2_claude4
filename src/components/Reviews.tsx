@@ -30,9 +30,9 @@ const REVIEWS = [
     text: 'Phòng tập thoáng mát sạch sẽ, rất thích tập ở đây',
   },
   {
-    name: 'Phố Ngô',
+    name: 'Nguyen Dat',
     service: 'Gói 3 Tháng',
-    text: 'Anh chủ K-GYM rất tâm huyết, tư vấn lộ trình tập phù hợp với từng người, các bạn hỗ trợ đều rất thân thiện.',
+    text: 'Phòng rộng, mát, nhiều máy tập. Giá rất oke luôn mn.',
   },
   {
     name: 'Hải Yến',
