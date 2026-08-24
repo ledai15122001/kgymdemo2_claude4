@@ -16,7 +16,7 @@ const REVIEWS = [
   },
   {
     name: 'Quốc Thái',
-    service: 'Tập Buổi Sáng',
+    service: 'Gói 3 tháng',
     text: 'Phòng sạch sẽ và thoáng mát, không có máy Preacher curl :(',
   },
   {
