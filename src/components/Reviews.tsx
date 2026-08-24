@@ -25,9 +25,9 @@ const REVIEWS = [
     text: 'Ông chủ phòng gym dễ thương.nhiệt tình.',
   },
   {
-    name: 'Sĩ Bụ',
+    name: 'Linh Hải',
     service: 'PT Freelance',
-    text: 'Chỗ tập ưng quá chừng 😘, có khu vực riêng cho PT dẫn khách, dụng cụ tập đầy đủ, nhiệt tình lắm nheee 😍😍',
+    text: 'Phòng tập thoáng mát sạch sẽ, rất thích tập ở đây',
   },
   {
     name: 'Phố Ngô',
