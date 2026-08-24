@@ -20,9 +20,9 @@ const REVIEWS = [
     text: 'Phòng sạch sẽ và thoáng mát, không có máy Preacher curl :(',
   },
   {
-    name: 'Hết Cao Vân',
-    service: 'Gói 1 Tháng',
-    text: 'Anh em ở đây hoà đồng thân thiện lắm luôn, giá tốt, phù hợp cho người mới bắt đầu tập.',
+    name: 'Vanvinh Ng',
+    service: 'Gói 6 Tháng',
+    text: 'Ông chủ phòng gym dễ thương.nhiệt tình.',
   },
   {
     name: 'Sĩ Bụ',
