@@ -1,8 +1,8 @@
 const REVIEWS = [
   {
-    name: 'Tố Nga',
+    name: 'Tuấn Anh',
     service: 'Gói 3 Tháng',
-    text: 'Tập ở K-GYM được hơn 3 tháng rồi, máy móc đầy đủ, không gian thoáng mát, giá lại hợp lý so với mấy chỗ khác ở khu vực 👍',
+    text: 'Chủ phòng thân thiện , dễ chịu. Phòng tập luyện thoải mái thoáng mát.',
   },
   {
     name: 'Trần Thanh Hằng',
